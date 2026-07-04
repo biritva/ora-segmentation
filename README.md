@@ -21,9 +21,10 @@
 > **⚠️ ВАЖНО:** Настоятельно рекомендуется использовать виртуальное окружение (`venv`) для изоляции зависимостей проекта и предотвращения конфликтов версий библиотек (особенно NumPy/Pandas/Torch).
 
 ### 1. Клонирование репозитория
-```bash
+``` bash 
 git clone https://github.com/your-username/sulfide-ore-analyzer.git
-cd sulfide-ore-analyzer
+cd sulfide-ore-analyzer 
+```
 
 ### 2. Создание виртуального окружения
 # Windows
