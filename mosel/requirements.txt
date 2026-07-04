@@ -1,0 +1,26 @@
+# --- Основные библиотеки для работы с изображениями и ML ---
+numpy>=2.0.0
+opencv-python>=4.10.0
+imageio>=2.35.0
+matplotlib>=3.9.0
+Pillow>=11.0.0
+
+# --- Библиотеки для сегментации ---
+segmentation_models_pytorch>=0.4.0
+albumentations>=1.4.0
+
+# --- Machine Learning ---
+scikit-learn>=1.5.0
+scikit-image>=0.24.0
+
+# --- Веб-интерфейс ---
+streamlit>=1.40.0
+
+# --- Работа с данными ---
+pandas>=2.2.0
+
+# --- Генерация PDF отчетов ---
+reportlab>=4.2.0
+
+# --- Утилиты ---
+tqdm>=4.66.0
