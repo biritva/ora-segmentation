@@ -94,9 +94,12 @@ streamlit run app.py
 # Дополнительные материалы
 ## В папке ora-segmentation/supp_mat находятся дополнительные матреиалы к решению.
 ### Описание файлов:
-supp_mat/
-├── 📄 Nornikel_2026-Tecnologia.pdf    — презентация проекта команды "Tecnologia"
-├── 🎥 mosel.mp4                       — скринкаст приложения mosel
-├──  mosel_report.pdf                — пример отчета приложения mosel
-├── 🎥 ora-segmentation.mp4            — скринкаст приложения ora-segmentation
-└── 📄 ora-segmentation_report.pdf     — пример отчета приложения ora-segmentation
+📁 Файлы в папке `supp_mat/`
+
+| Файл | Описание |
+|------|----------|
+| 📄 `Nornikel_2026-Tecnologia.pdf` | Презентация проекта команды "Tecnologia" |
+| 🎥 `mosel.mp4`                    | Скринкаст приложения mosel |
+| 📄 `mosel_report.pdf`             | Пример отчета приложения mosel |
+| 🎥 `ora-segmentation.mp4`         | Скринкаст приложения ora-segmentation |
+| 📄 `ora-segmentation_report.pdf`  | Пример отчета приложения ora-segmentation |
