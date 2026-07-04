@@ -92,5 +92,12 @@ streamlit run app.py
 - **Image Processing:** OpenCV, scikit-image, Pillow
 - **Reporting:** ReportLab (генерация PDF)
 # Дополнительные материалы
-
+## В папке ora-segmentation/supp_mat находятся дополнительные матреиалы к решению.
+### Описание файлов:
+supp_mat/
+├── Nornikel_2026-Tecnologia.pdf     - презентация проэкта команды "Tecnologia"
+├── mosel.mp4                        - скринкаст приложения mosel
+├── mosel_report.pdf                 - пример отчета приложения mosel
+├── ora-segmentation.mp4             - скринкаст приложения ora-segmentation
+└── ora-segmentation_report.pdf      - пример отчета приложения ora-segmentation
 
