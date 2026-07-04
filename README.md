@@ -42,6 +42,11 @@ source .venv/bin/activate
 ``` bash 
 pip install -r requirements.txt
 ```
+### 3.1. Установка CLIP (ОБЯЗАТЕЛЬНО!)
+Библиотека OpenAI CLIP не доступна в PyPI и устанавливается отдельно:
+```bash
+pip install git+https://github.com/openai/CLIP.git
+```
 ## 4. Загрузка весов моделей
 При первом запуске приложение автоматически скачает веса SAM (~375 МБ).
 
