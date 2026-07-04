@@ -10,5 +10,5 @@ tqdm>=4.64.0
 reportlab>=3.6.0
 scipy>=1.9.0
 segment-anything-py>=0.1.0
-torch==2.5.1
+torchvision>=0.15.0
 torchvision>=0.15.0
