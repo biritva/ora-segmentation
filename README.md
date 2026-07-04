@@ -22,15 +22,18 @@
 
 ### 1. Клонирование репозитория
 ``` bash 
-git clone https://github.com/your-username/sulfide-ore-analyzer.git
-cd sulfide-ore-analyzer 
+git clone https://github.com/biritva/ora-segmentation.git
+cd ora-segmentation 
 ```
 
 ### 2. Создание виртуального окружения
 # Windows
+``` bash 
 python -m venv .venv
 .venv\Scripts\activate
-
+```
 # Linux / macOS
+``` bash 
 python3 -m venv .venv
 source .venv/bin/activate
+```
