@@ -58,8 +58,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/biritva/mosel.git
-cd mosel-segmentation
+git clone https://github.com/biritva/ora-segmentation.git
+cd ora-segmentation/mosel
 ```
 ### 2. Создание виртуального окружения
 
