@@ -27,6 +27,7 @@
 ```bash
 # Установите Git LFS
 git lfs install
+#sudo apt update sudo apt install git-lfs для Unix систем
 
 # Клонируйте репозиторий (модели скачаются автоматически)
 git clone https://github.com/biritva/ora-segmentation.git
